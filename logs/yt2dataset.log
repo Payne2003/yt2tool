@@ -1,0 +1,20 @@
+[2026-03-25 11:03:09] INFO     yt2dataset.downloader — Starting download: https://www.youtube.com/watch?v=TVOfmlkJztY
+[2026-03-25 11:03:11] INFO     yt2dataset.downloader — Video: 'Tất tần tật VŨ TRỤ PHIM KHỦNG LONG trong 35 phút' [TVOfmlkJztY]
+[2026-03-25 11:03:20] INFO     yt2dataset.downloader — Audio saved: D:\aiphattrien\yt2dataset\input\_tmp_dl\Tất tần tật VŨ TRỤ PHIM KHỦNG LONG trong 35 phút.wav
+[2026-03-25 11:03:28] INFO     yt2dataset.downloader — Converted SRT → TXT: 1197 lines
+[2026-03-25 11:03:28] INFO     yt2dataset.downloader — Subtitle saved: D:\aiphattrien\yt2dataset\input\_tmp_dl\Tất tần tật VŨ TRỤ PHIM KHỦNG LONG trong 35 phút.txt
+[2026-03-25 15:15:31] INFO     yt2dataset.downloader — Starting download: https://www.youtube.com/watch?v=ogmDq6H0B-U
+[2026-03-25 15:15:33] INFO     yt2dataset.downloader — Video: 'Tất cả các hình thức đỏ đen phổ biến trong ngày Tết' [ogmDq6H0B-U]
+[2026-03-25 15:15:38] INFO     yt2dataset.downloader — Audio saved: D:\aiphattrien\yt2dataset\input\_tmp_dl\Tất cả các hình thức đỏ đen phổ biến trong ngày Tết.wav
+[2026-03-25 15:15:45] INFO     yt2dataset.downloader — Converted SRT → TXT: 370 lines
+[2026-03-25 15:15:45] INFO     yt2dataset.downloader — Subtitle saved: D:\aiphattrien\yt2dataset\input\_tmp_dl\Tất cả các hình thức đỏ đen phổ biến trong ngày Tết.txt
+[2026-03-25 15:17:18] INFO     yt2dataset.downloader — Starting download: https://www.youtube.com/watch?v=ogmDq6H0B-U
+[2026-03-25 15:17:20] INFO     yt2dataset.downloader — Video: 'Tất cả các hình thức đỏ đen phổ biến trong ngày Tết' [ogmDq6H0B-U]
+[2026-03-25 15:17:24] INFO     yt2dataset.downloader — Audio saved: D:\aiphattrien\yt2dataset\input\_tmp_dl\Tất cả các hình thức đỏ đen phổ biến trong ngày Tết.wav
+[2026-03-25 15:17:31] INFO     yt2dataset.downloader — Converted SRT → TXT: 370 lines
+[2026-03-25 15:17:31] INFO     yt2dataset.downloader — Subtitle saved: D:\aiphattrien\yt2dataset\input\_tmp_dl\Tất cả các hình thức đỏ đen phổ biến trong ngày Tết.txt
+[2026-03-25 17:01:42] INFO     yt2dataset.downloader — Starting download: https://www.youtube.com/watch?v=7whkPTcpgz0
+[2026-03-25 17:01:44] INFO     yt2dataset.downloader — Video: 'Tất tần tật vũ trụ DỊ NHÂN  (phần 1) trong 39 phút' [7whkPTcpgz0]
+[2026-03-25 17:01:54] INFO     yt2dataset.downloader — Audio saved: D:\aiphattrien\yt2dataset\input\_tmp_dl\Tất tần tật vũ trụ DỊ NHÂN  (phần 1) trong 39 phút.wav
+[2026-03-25 17:02:01] INFO     yt2dataset.downloader — Converted SRT → TXT: 1232 lines
+[2026-03-25 17:02:01] INFO     yt2dataset.downloader — Subtitle saved: D:\aiphattrien\yt2dataset\input\_tmp_dl\Tất tần tật vũ trụ DỊ NHÂN  (phần 1) trong 39 phút.txt

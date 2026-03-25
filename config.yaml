@@ -1,0 +1,32 @@
+# ============================================================
+# YT2Dataset — Configuration
+# ============================================================
+
+download:
+  quality: "bestaudio"          # bestaudio / best (video+audio)
+  subtitle_lang: "vi"           # ngôn ngữ subtitle ưu tiên tải về
+  cookies_file: ""              # (tùy chọn) path tới cookies.txt nếu cần
+
+whisper:
+  model: "medium"               # tiny | base | small | medium | large | large-v3
+  language: "auto"              # auto | vi | en | ja | ko | tl
+
+segmentation:
+  min_duration: 2.0             # giây — đoạn ngắn nhất
+  max_duration: 13.0            # giây — đoạn dài nhất
+
+dataset:
+  output_dir: "output"          # thư mục output tổng
+  append_mode: true             # true = thêm vào dataset có sẵn
+  sample_rate: 22050            # Hz cho WAV output
+  channels: 1                   # 1 = mono
+
+openai:
+  api_key: ""                   # (tùy chọn) OpenAI key để sửa lỗi transcription
+  word_count_tolerance: 0.20    # ±20% số từ GPT có thể thêm/bớt (0.10–0.30)
+  reference_threshold: 0.70     # ngưỡng fuzzy match với subtitle (0.60–0.85)
+
+logging:
+  level: "INFO"                 # DEBUG | INFO | WARNING | ERROR
+  file: "logs/yt2dataset.log"
+  console: true
